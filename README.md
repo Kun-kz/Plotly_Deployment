@@ -21,3 +21,4 @@ The gauge chart displayed the selected ID’s weekly washing frequency.
 ![](images/Pic4.png)
 
 The web has been displayed to GitHub Pages.
+Github.io: https://kun-kz.github.io/Plotly_Deployment/
