@@ -1,5 +1,5 @@
 ## Overview
-In this project, we used Plotly.js to create an interactive data visualization for the web. We visualized the types of bacteria that colonized the volunteer's bellies and conveyed data to both volunteers and researchers.
+In this project, we used Plotly.js to create an interactive data visualization for the web. We visualized the types of bacteria that colonized the volunteers' bellies and conveyed data to both volunteers and researchers.
 ## Resources
 -	Data Source: samples.json
 -	Tools: VS Code, Web browser, Terminal
